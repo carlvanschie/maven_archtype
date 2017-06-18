@@ -1,0 +1,12 @@
+# Created by .ignore support plugin
+
+# Idea workspace
+.idea/
+
+# Target folder
+target/
+
+# Project name
+maven_archtype.iml
+
+
